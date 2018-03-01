@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="50px" viewBox="0 0 180 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>BUTTON mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Main-iPhone-7-plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-24.000000, -3160.000000)">
+        <g id="Code-exemple" transform="translate(0.000000, 2265.000000)">
+            <g id="BUTTON-mobile" transform="translate(24.000000, 895.000000)">
+                <g>
+                    <rect id="Rectangle-3" stroke="#32D4D4" stroke-width="2" x="1" y="1" width="178" height="48"></rect>
+                    <text id="Get-started" font-family="CircularStd-Medium, Circular Std" font-size="18" font-weight="400" fill="#32D4D4">
+                        <tspan x="43.344" y="18">Get started</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
